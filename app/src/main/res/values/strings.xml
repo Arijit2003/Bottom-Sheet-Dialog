@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bottom Sheet Dialog</string>
+    <string name="brahmastra">Brahmāstra</string>
+    <string name="story">Brahmāstra: Part One – Shiva (pronounced [bɾəɦmaːstrə]) is a 2022 Indian Hindi-language fantasy action-adventure film[c] written and directed by Ayan Mukerji. It is produced by Karan Johar, Apoorva Mehta, Namit Malhotra, and Mukerji (in his debut production) – under the production companies Dharma Productions, Starlight Pictures, and Prime Focus in association with Star Studios, along with Ranbir Kapoor and Marijke DeSouza. The film serves as the first installment of a planned trilogy, which is itself planned to be part of a cinematic universe titled Astraverse. It stars Amitabh Bachchan, Ranbir Kapoor, Alia Bhatt, Nagarjuna Akkineni, Shah Rukh Khan, Dimple Kapadia, and Mouni Roy. Drawing inspiration from stories in Hindu mythology, the film follows Shiva, an orphan with pyrokinetic powers who discovers that he is an astra, a weapon of enormous energy. He attempts to prevent the strongest of the astras, the Brahmāstra, from falling into the hands of dark forces that share a history with him.</string>
+    <string name="duration">Duration: 2:48:00</string>
+    <string name="dismiss">Dismiss Dialog</string>
+    <string name="click">Click the button</string>
+    <string name="button">Button</string>
+</resources>
